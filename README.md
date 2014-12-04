@@ -22,7 +22,7 @@ We should be able to evaluate a string from the command line in the following wa
 This my solution to the Indiegogo coding assignment. I created a stack to obfusciate the additional functionality of an Array. In additon, I created my own atoi and atof. The program evaluates an RPN expression and prints the solution to stdout. It is ran from rpn.rb. 
 
 
-## usage
+## Usage
 
     ruby rpn.rb "1 2 +"
 
