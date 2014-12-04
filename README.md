@@ -1,7 +1,7 @@
 RPN Evaluator README
 ===================
 
-# Problem
+## Problem
 Implement a RPN evaluator in Ruby. It should be able to evaluate the following strings and answer with the corresponding numbers:
   “12+”=3
   “42/”=2
